@@ -1,2 +1,3 @@
-# privacy-pkg
+# pkg
+
 Go common function pkg
